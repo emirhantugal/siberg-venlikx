@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\bin\Debug\netcoreapp3.1\Emirhan.exe
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\bin\Debug\netcoreapp3.1\Emirhan.deps.json
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\bin\Debug\netcoreapp3.1\Emirhan.runtimeconfig.json
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\bin\Debug\netcoreapp3.1\Emirhan.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\bin\Debug\netcoreapp3.1\Emirhan.dll
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\bin\Debug\netcoreapp3.1\Emirhan.pdb
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\obj\Debug\netcoreapp3.1\Emirhan.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\obj\Debug\netcoreapp3.1\Emirhan.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\obj\Debug\netcoreapp3.1\Emirhan.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\obj\Debug\netcoreapp3.1\Emirhan.dll
+C:\Users\CANBERK\source\repos\Emirhan\Emirhan\obj\Debug\netcoreapp3.1\Emirhan.pdb
